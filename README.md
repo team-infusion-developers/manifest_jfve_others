@@ -19,7 +19,7 @@ To get started with the building process, you'll need to get familiar with [Git 
 To initialize your local repository, use a command like this:
 
 ```bash
-      repo init -u git://github.com/jdcteam/manifest.git -b dot-pie
+      repo init -u git://github.com/jdcteam/manifests_side.git -b dot-pie
 ```
 
 Then to sync up:

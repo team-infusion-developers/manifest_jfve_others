@@ -722,5 +722,5 @@
   <!-- Havoc additions -->
   <include name="snippets/havoc.xml" />
   <include name="snippets/lineage.xml" />
-  <include name="snippets/jflte.xml" />
+  <include name="snippets/jfvelte.xml" />
 </manifest>

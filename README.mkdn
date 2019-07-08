@@ -1,1 +1,1 @@
-    repo init -u https://github.com/JDCTeam/manifests_side.git -b havoc-pie 
+    repo init -u https://github.com/team-infusion-developers/manifest_jfve_others.git -b havoc-pie 

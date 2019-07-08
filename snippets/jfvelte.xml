@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="jdc"
+           fetch="https://github.com"
+           revision="havoc-pie" />
+  
+  <remote name="team infusion"
+           fetch="https://github.com"
+           revision="havoc-pie" />
+  
+  <!--Untouched [Optimized] LineageOS repos-->
+  <project path="kernel/samsung/jf" name="team-infusion-developers/android_kernel_samsung_jf" remote="team infusion" revision="lineage-15.1" />
+  <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" remote="github" revision="lineage-16.0" />
+  <project path="device/samsung/qcom-common" name="LineageOS/android_device_samsung_qcom-common" remote="github" revision="lineage-16.0" />
+  <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="lineage-16.0"/>
+	
+  <!--HavocOS stuff-->
+  <project path="device/samsung/jfvelte" name="team-infusion-developers/android_device_samsung_jfvelte" remote="team infusion" revision="havoc-pie" />
+  
+</manifest>
